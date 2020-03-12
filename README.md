@@ -16,4 +16,4 @@
 
 Copyright European Commission, 2019
 
-For questions, comments or suggestions please email <ernesto.jardim@ec.europa.eu>.
+For questions, comments or suggestions please email <ernesto.jardim@ec.europa.eu> or <iago.mosqueira@wur.nl>.
