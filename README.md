@@ -8,7 +8,7 @@
 
 - To run the code one will need to install the packages, store the data files somewhere and load them into the R environment. Note some scripts will need to be edited to read the files from the right location.
 
-- The presentations and code were adapted to the new package version, 2.x.
+- The presentations and code were adapted to the mse package version 2.x.
 
 - The course was co-funded by the H202 project Pandora (https://www.pandora-fisheries-project.eu/)
 
